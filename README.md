@@ -1,6 +1,6 @@
 ## Hello there,
 
-My name is Dmitrii. My passion of engineering drives me to keep learning new things, creating solutions for non-trivial problems, and finding the answers to the "why?" and "how?".
+My name is Dmitrii. My passion of engineering drives me to keep learning new things, creating solutions for nontrivial problems, and finding the answers to the "why?" and "how?".
 
 ## About me
 
