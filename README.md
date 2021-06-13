@@ -7,7 +7,7 @@ My name is Dmitrii. My passion of engineering drives me to keep learning new thi
 * I am a soon to be graduate with Master's in Electrical and Computer Engineering from University of Victoria
 * My interests include but are not limited to Data Science, Machine Learning and Artificial Intelligence
 
-## Contacts
+## Contact me
 
 * LinkedIn: https://www.linkedin.com/in/dmitrii-govor/
 * Email: dmitrii.m.govor@gmail.com
