@@ -4,7 +4,7 @@ My name is Dmitrii. My passion of engineering drives me to keep learning new thi
 
 ## About me
 
-* I am a graduate with Master's in Electrical and Computer Engineering from University of Victoria
+* I am a graduate with a Master's in Electrical and Computer Engineering from University of Victoria
 * My interests include but are not limited to Data Science, Machine Learning and Artificial Intelligence
 
 ## Contact me
