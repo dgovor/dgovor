@@ -4,7 +4,7 @@ My name is Dmitrii. My passion of engineering drives me to keep learning new thi
 
 ## About me
 
-* I am a recent graduate with a Master's in Electrical and Computer Engineering from University of Victoria
+* I am a current Segment Lead – LTD Semiconductor Process Engineer working in Intel Corporation
 * My interests include but are not limited to Data Science, Machine Learning, Computer Vision, and Artificial Intelligence
 
 ## Contact me
