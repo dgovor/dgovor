@@ -10,7 +10,7 @@ My name is Dmitrii Govor, a detail-oriented, multilingual professional based in 
 
 Let's collaborate and revolutionize the tech landscape together! Connect with me on [LinkedIn](https://www.linkedin.com/in/dmitrii-govor/) and explore my coding adventures on GitHub. The journey is just beginning, and I'm excited to bring innovation to life! 🚀✨
 
-## Contact me
+## Let's connect 🤝 
 
 * LinkedIn: https://www.linkedin.com/in/dmitrii-govor/
 * Email: dmitrii.m.govor@gmail.com
