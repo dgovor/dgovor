@@ -15,7 +15,7 @@ Let's collaborate and revolutionize the tech landscape together! Connect with me
 * Email 📧 : dmitrii.m.govor@gmail.com
 * LinkedIn 👔 : https://www.linkedin.com/in/dmitrii-govor/
 * Hugging Face 🤗 : https://huggingface.co/dgovor
-* <div class="badge-base LI-profile-badge" data-locale="ru_RU" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="dmitrii-govor" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/dmitrii-govor?trk=profile-badge">Dmitrii Govor</a></div>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
               
 
 <!---
