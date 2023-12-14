@@ -1,6 +1,4 @@
-## Hello there,
-
-Hello! 👋 
+## Hello! 👋 
 
 My name is Dmitrii Govor, a detail-oriented, multilingual professional based in Vancouver, WA, with a passion for Machine Learning, Computer Vision, and Artificial Intelligence 🚀 . I have gained some skills from my time as a Process Engineer at Intel and as a Master of Engineering alumni from the University of Victoria in BC, Canada 🇨🇦. I am driven to solve difficult problems and greatly enjoy learning new skills. I strive to become a swiss army knife of an engineer capable of mastering a wide range of skills and programming languages 🛠️. 
 
