@@ -12,9 +12,9 @@ Let's collaborate and revolutionize the tech landscape together! Connect with me
 
 ## Let's connect 🤝 
 
-* LinkedIn: https://www.linkedin.com/in/dmitrii-govor/
-* Email: dmitrii.m.govor@gmail.com
-* Hugging Face: https://huggingface.co/dgovor
+* Email 📧 : dmitrii.m.govor@gmail.com
+* LinkedIn 👔 : https://www.linkedin.com/in/dmitrii-govor/
+* Hugging Face 🤗 : https://huggingface.co/dgovor
 
 <!---
 dgovor/dgovor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
