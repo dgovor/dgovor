@@ -1,6 +1,14 @@
 ## Hello there,
 
-My name is Dmitrii. My passion of engineering drives me to keep learning new things, creating solutions for nontrivial problems, and finding the answers to the "why?" and "how?".
+Hello! 👋 My name is Dmitrii Govor, a detail-oriented, multilingual professional based in Vancouver, WA, with a passion for Machine Learning, Computer Vision, and Artificial Intelligence 🚀 . I have gained some skills from my time as a Process Engineer at Intel and as a Master of Engineering alumni from the University of Victoria in BC, Canada 🇨🇦. I am driven to solve difficult problems and greatly enjoy learning new skills. I strive to become a swiss army knife of an engineer capable of mastering a wide range of skills and programming languages 🛠️. 
+
+💡 Please take a look at some of my highlighted projects:
+- 🤟 Sign Language Translator: Neural Network magic with LSTM and Dense layers, bringing communication to a new level.
+- 🏠 Housing Price Prediction: Engineered a robust ML model for precise price predictions, eliminating outliers and normalizing values.
+- 💓 Heart Failure Prediction: Tackled a Kaggle dataset with a Python-powered ML model, offering a solution to a critical problem.
+- 🧩 Eight Puzzle Solver: An AI masterpiece solving the 8-puzzle problem using the A* search algorithm in MATLAB.
+
+Let's collaborate and revolutionize the tech landscape together! Connect with me on LinkedIn and explore my coding adventures on GitHub. The journey is just beginning, and I'm excited to bring innovation to life! 🚀✨
 
 ## About me
 
